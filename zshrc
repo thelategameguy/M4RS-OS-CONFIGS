@@ -103,4 +103,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 figlet "M4RS TECH PRV" | lolcat
-sudo fastfetch --logo-padding 0 --logo-height 20 --logo-width 40 --logo-type chafa --logo /root/Pictures/"niko-oneshot.png" --show-errors
+fastfetch 
